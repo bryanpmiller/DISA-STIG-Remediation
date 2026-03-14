@@ -4,7 +4,7 @@
 
 This table links each STIG ID to its matching remediation script and the screenshot folder used to capture pass/fail/remediation validation evidence.
 
-| STIG ID | Remediation Powershell Script | Pass/Fail Screen Shots |
+| STIG ID | Remediation Powershell Script | Pass/Fail/Remediation |
 | --- | --- | --- |
 | WN11-AU-000050 | [Powershell Script](scripts/WN11-AU-000050.ps1) | [Screenshots](assets/WN11-AU-000050) |
 | WN11-AU-000500 | [Powershell Script](scripts/WN11-AU-000500.ps1) | [Screenshots](assets/WN11-AU-000500) |
