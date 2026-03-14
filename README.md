@@ -2,7 +2,7 @@
 
 ## STIG Remediation Index Table
 
-This table links each STIG ID to its matching remediation script and the screenshot folder used to capture pass/fail validation evidence.
+This table links each STIG ID to its matching remediation script and the screenshot folder used to capture pass/fail/remediation validation evidence.
 
 | STIG ID | Remediation Powershell Script | Pass/Fail Screen Shots |
 | --- | --- | --- |
