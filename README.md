@@ -17,4 +17,10 @@ This table links each STIG ID to its matching remediation script and the screens
 | WN11-CC-000252 | [Powershell Script](scripts/WN11-CC-000252.ps1) | [Screenshots](assets/WN11-CC-000252) |
 | WN11-CC-000315 | [Powershell Script](scripts/WN11-CC-000315.ps1) | [Screenshots](assets/WN11-CC-000315) |
 | WN11-EP-000310 | [Powershell Script](scripts/WN11-EP-000310.ps1) | [Screenshots](assets/WN11-EP-000310) |
-<!--| WN11-00-000210 | [Powershell Script](scripts/WN11-00-000210.ps1) | [Screenshots](assets/WN11-00-000210-) |-->
+
+<!--
+
+******* Still Failing. Likely need to adjust at a policy level w/ Intune *******
+| WN11-00-000210 | [Powershell Script](scripts/WN11-00-000210.ps1) | [Screenshots](assets/WN11-00-000210-) |
+
+-->
