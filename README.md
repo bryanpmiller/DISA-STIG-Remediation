@@ -1,4 +1,4 @@
-# DISA-STIG-Remediation
+# DISA STIG Remediation Project
 
 ## STIG Remediation Index Table
 
